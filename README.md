@@ -78,7 +78,10 @@ DNSهای رایج ایران و بین‌المللی (مثل گوگل، کلو
 ## 📥 نحوه استفاده
 
 ```bash
-sudo bash dns-switcher.sh
+git clone https://github.com/sadeghmolaei/DNS-Resolv-Master.git
+cd dns-switcher
+chmod +x dns-switcher.sh
+sudo ./dns-switcher.sh
 ```
 
 سپس عدد مربوط به DNS موردنظر را انتخاب کنید. اسکریپت:
