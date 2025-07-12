@@ -17,7 +17,10 @@ Ideal for Linux users who want to quickly test or switch between providers (e.g.
 ## 🚀 How to Use
 
 ```bash
-sudo bash dns-switcher.sh
+git clone https://github.com/sadeghmolaei/DNS-Resolv-Master.git
+cd dns-switcher
+chmod +x dns-switcher.sh
+sudo ./dns-switcher.sh
 ```
 
 Then choose a provider number from the list. The script will:
